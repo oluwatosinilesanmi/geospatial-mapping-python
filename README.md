@@ -69,4 +69,4 @@ The course produces a choropleth map showing population distribution by state.
 ## Author
 
 Oluwatosin Ilesanmi  
-Geospatial Data Analyst
+Senior Geospatial Data Scientist
