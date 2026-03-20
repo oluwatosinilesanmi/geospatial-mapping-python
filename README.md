@@ -1,4 +1,4 @@
-# Python GIS Mapping Course
+# How to Read a Shapefile and Plot Maps in Python (GeoPandas Beginner Tutorial)
 
 This repository contains materials for learning how to perform geospatial mapping using Python.
 
